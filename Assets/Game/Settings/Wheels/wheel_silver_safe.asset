@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44cc16f1ebdd24b41b4b5f95ae72c749, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tier: 1
+  _slices:
+  - _reward: {fileID: 11400000, guid: b8e28dcf513085242bf24f1957ebbbb2, type: 2}
+    _amountOverride: 300
+  - _reward: {fileID: 11400000, guid: c21f9cd7d46f3b14e90bff64bd0bab59, type: 2}
+    _amountOverride: 0
+  - _reward: {fileID: 11400000, guid: 54551bf9b8fe197489619f6e7b515f0a, type: 2}
+    _amountOverride: 200
+  - _reward: {fileID: 11400000, guid: bceefa1b436493847902f4c73d665e5c, type: 2}
+    _amountOverride: 0
+  - _reward: {fileID: 11400000, guid: b8e28dcf513085242bf24f1957ebbbb2, type: 2}
+    _amountOverride: 400
+  - _reward: {fileID: 11400000, guid: 32b352e2fbc6b3046bf71a15a17550a4, type: 2}
+    _amountOverride: 0
+  - _reward: {fileID: 11400000, guid: d9661ce597a9c4d429c5fa6d38994d6b, type: 2}
+    _amountOverride: 0
+  - _reward: {fileID: 11400000, guid: 2986489b2881a5f40968aedeaecdf6c7, type: 2}
+    _amountOverride: 10

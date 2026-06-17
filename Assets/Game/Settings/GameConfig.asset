@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f200c99a3afb2844d98c2f08cec51bb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _safeZoneInterval: 5
+  _superZoneInterval: 30
+  _normalWheel: {fileID: 11400000, guid: 69e25e61cea327045b0931824131d2ec, type: 2}
+  _safeWheel: {fileID: 11400000, guid: d6e25141701b73b4d855612cdf02f8c4, type: 2}
+  _superWheel: {fileID: 11400000, guid: 98c619bc8cbe15445a0a7ec7194bdad7, type: 2}
+  _rewardGrowthPerZone: 0.2
+  _superZoneRewardMultiplier: 3
+  _allowCashOutAnytime: 0
+  _startingGold: 0
+  _startingCash: 25
+  _reviveCashCost: 25
